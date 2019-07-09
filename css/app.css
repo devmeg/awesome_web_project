@@ -10,13 +10,25 @@ p{
 
 }
 
+p:first-child{
+
+  margin-right: 75px;
+}
+
+table:first-of-type {
+  margin-top: 90px;
+}
+table{
+  margin-top: 70px;
+}
 H1{
   text-align: center;
   font-size: 40apx; 
 }
 
 a{
-  font-size: 50apx; 
+  text-align: center
+  
   
 
 
