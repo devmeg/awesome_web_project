@@ -1,5 +1,23 @@
 body {
   
-  background-color: yellow;
+  background-color: white;
+  color: rgb(69, 69, 158)
   
+  
+}
+p{
+  font-family: Arial, Helvetica, sans-serif
+
+}
+
+H1{
+  text-align: center;
+  font-size: 40apx; 
+}
+
+a{
+  font-size: 50apx; 
+  
+
+
 }
